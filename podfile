@@ -1,0 +1,7 @@
+
+target:CoreDataSample do
+
+pod "MagicalRecord"
+
+end
+
