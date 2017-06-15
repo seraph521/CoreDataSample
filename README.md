@@ -1,0 +1,2 @@
+# CoreDataSample
+CoreData + MagicalRecord 
